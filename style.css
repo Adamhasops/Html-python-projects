@@ -1,0 +1,46 @@
+
+
+div.main a{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+div.main a:hover {
+    color: red;
+}
+
+body{
+    
+    background-color: black;
+}
+
+div.quote h2{
+    color: red;
+    text-align: center;
+    font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 1000px;
+  margin: auto;
+  border-style: dashed;
+  border-radius: 10px;
+}
+div.main img{
+    height: 550px;
+    display: block;
+    margin: 0 auto;
+    border-style: ridge;
+    border-width: 45px;
+    border-color: slategray;
+    border-radius: 10px;
+    
+}
+
